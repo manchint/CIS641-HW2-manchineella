@@ -6,7 +6,7 @@
 * I like to take to take up challenges and work on that
 * Would like to explore more technologies
 
-##**Technical Background**
+## **Technical Background**
 I have 5+ years of experience on Appliation development.Initailly I worked 
 on Visualizer platform where I worked on javascript and then moved to 
 different where most of my role would be converting the existing Angular 
