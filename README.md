@@ -1,5 +1,3 @@
-# CIS641-HW2-manchineella
-
 # TEJASWI MANCHINEELLA
 
 * I love playing games
