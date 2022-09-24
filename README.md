@@ -1,8 +1,5 @@
 # CIS641-HW2-manchineella
 
-## title {.tabset .tabset-fade}
-content above tabbed region.
-
 # TEJASWI MANCHINEELLA
 
 * I love playing games
